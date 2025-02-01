@@ -27,7 +27,7 @@ export default function Home() {
           </video>
         </div>
         <section className="bg-[#1d232a] flex flex-col items-center">
-          <h1 className="font-bold text-2xl mb-10 mt-10">
+          <h1 className="text-white font-bold text-2xl mb-10 mt-10">
             Por que escolher nossa IA?
           </h1>
           <div className="flex gap-24">
